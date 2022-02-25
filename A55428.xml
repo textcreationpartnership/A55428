@@ -1,0 +1,1618 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wish written by Dr. Pope ...</title>
+            <title>Old man's wish</title>
+            <author>Pope, Walter, d. 1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55428</idno>
+            <idno type="STC">Wing P2917</idno>
+            <idno type="STC">ESTC R8670</idno>
+            <idno type="EEBO-CITATION">13736832</idno>
+            <idno type="OCLC">ocm 13736832</idno>
+            <idno type="VID">101635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101635)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wish written by Dr. Pope ...</title>
+                  <title>Old man's wish</title>
+                  <author>Pope, Walter, d. 1714.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Latin and Italian with English translation.</note>
+                  <note>First published in a shorter version as The old man's wish.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101635:1"/>
+            <pb facs="tcp:101635:1" rendition="simple:additions"/>
+            <p>THE WISH.</p>
+            <p>Written by Dr. <hi>POPE</hi> Fellow of the ROYAL SOCIETY.</p>
+            <q>
+               <l>Haec ſatis eſt orare Jovem. </l>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <q>
+               <lg xml:lang="lat">
+                  <l>———nil</l>
+                  <l>Divitiae poterint regales addere majus. </l>
+               </lg>
+               <bibl>
+                  <hi>Id.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCXCVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:101635:2"/>
+            <pb n="1" facs="tcp:101635:2"/>
+            <head>To the Right Honourable CHARLES Lord Clifford, Grandſon and Heir to <hi>Richard</hi> E. of <hi>Burlington</hi> and <hi>Cork,</hi> AND One of the Gentlemen of His Majeſty's BED—CHAMBER.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THE Honour and Reſpect which I had for your Lordſhips Father, is not wholly unknown to you; as alſo, with what Condeſcention, Familiarity, and Kindneſs, he always uſed me. I own, thoſe Days which I ſpent in his Lordſhip's Converſation in <hi>France,</hi> were without Compariſon, the very beſt Part of my Life. I deſign'd to have made my Gratitude Public; and to that End, Com<g ref="char:EOLhyphen"/>poſed a ſmall Treatiſe, and Dedicated it to him, which he not only ſaw, but was alſo pleaſed graciouſly to accept: But before I could get it Printed, he died, to the great Loſs of the Public, and all good Men; but to none ſo much as me, for my Dammage is irreparable, unleſs your Lordſhip ſucceeds
+<pb n="2" facs="tcp:101635:3"/>
+him in his Favour to me, as you do in his Honour and Ver<g ref="char:EOLhyphen"/>tues, which I hope, but dare not expect.</p>
+            <p>I humbly preſent your Lordſhip with this Copy of Ver<g ref="char:EOLhyphen"/>ſes, an Earneſt of ſomething of a greater Bulk, but I dare not ſay of a better Compoſition; for if the Approbation of my Friends, has not impoſed upon my Credulity, and my Taſte does not deceive me, this is the moſt kindly, and palatable Fruit, that ever my Cultivation has produc'd: I wiſh it were worthy your Acceptation; however, I hope, I am excuſable, having offer'd to your Lordſhip the beſt of my Subſtance. I conclude, begging pardon for my Pre<g ref="char:EOLhyphen"/>ſumption, and praying Heaven to continue, and increaſe the Felicities of your noble Family. I am,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>your Lordſhip's moſt humble, and obedient Servant W. POPE.</signed>
+            </closer>
+         </div>
+         <div type="prologue">
+            <pb n="3" facs="tcp:101635:3"/>
+            <head>THE PROLOGUE TO THE WISH; Being a Parafraſe on theſe Verſes of <hi>Horace.</hi>
+            </head>
+            <q>
+               <lg>
+                  <l>QUid dedicatum poſcit Apollinem</l>
+                  <l>Vates, quid orat? de patera novum</l>
+                  <l>Fundens Liquorem? </l>
+               </lg>
+               <bibl>
+                  <hi>Hor. Ode 31. Lib. 1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <lg>
+                  <l>Me quoties reficit gelidus Digentia Rivus,</l>
+                  <l>Quem Mandela bibit, Rugoſus frigore Pagus.</l>
+                  <l>Quid ſentire putas? Quid credis Amice precari? </l>
+               </lg>
+               <bibl>
+                  <hi>Id. Ep. 18. Lib. 1.</hi>
+               </bibl>
+            </q>
+            <p>That is,</p>
+            <lg>
+               <l>When Poets offering at <hi>Apollo</hi>'s Shrine,</l>
+               <l>Out of the ſacred Goblets pour new Wine,</l>
+               <l>What do they wiſh? what do they then deſire?</l>
+            </lg>
+            <lg>
+               <l>When I'm at <hi>Epſom,</hi> or on <hi>Banſted<g ref="char:punc">▪</g>
+                  </hi> Down,</l>
+               <l>Free from the Wine, and Smoak, and Noiſe o'th' Town,</l>
+               <l>When I thoſe Waters drink, and breath that Air,</l>
+               <l>What are my Thoughts? what's my continual Prayer?</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101635:4"/>
+            <pb n="5" facs="tcp:101635:4"/>
+            <head>THE WISH.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <lg rend="blackletterType">
+                  <l>IF I live to be Old, <hi rend="sup">1</hi> for I find I go <hi rend="sup">2</hi> down,</l>
+                  <l>Let this be my Fate. In a <hi rend="sup">3</hi> Country Town,</l>
+                  <l>May I have a warm Houſe<g ref="char:punc">▪</g> with a <hi rend="sup">4</hi> Stone at the Gate,</l>
+                  <l>And a <hi rend="sup">5</hi> cleanly young Girl<g ref="char:punc">▪</g> to rub my bald Pate.</l>
+               </lg>
+               <lg rend="blackletterType" type="chorus">
+                  <head>CHOR<g ref="char:V">Ʋ</g>S.</head>
+                  <l>May I govern my <hi rend="sup">6</hi> Paſſion with an abſolute Sway,</l>
+                  <l>And grow <hi rend="sup">7</hi> Wiſer, and Better as my Strength wears away,</l>
+                  <l>Without Gout, or Stone, by a gentle decay.</l>
+               </lg>
+               <q xml:lang="dut">Krom en ſtijf, van Ouderdom gheboghen.</q>
+               <p>Crooked, and ſtiff, and bow'd with Age.</p>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>
+                        <hi rend="sup">1</hi> La lunga Eta m' imbianchi il Crine,</l>
+                     <l>E la Vecchiezza pur in'incurvi, e prema. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Vedendo la notte, e'l verno a tato.</l>
+                     <l>E dopo le Spalle, i meſi Gai. </l>
+                  </lg>
+                  <bibl>
+                     <hi>1. Petr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>With Snowy Hairs, Temples with Furrows plow'd,</l>
+                  <l>And by the Weight of Years, my Body bow'd.</l>
+                  <l>Winter, and an eternal Night comes on,</l>
+                  <l>And all my merry Years, and Days are gone.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="lat">
+                     <pb n="6" facs="tcp:101635:5"/>
+                     <l>
+                        <hi rend="sup">2</hi> Labuntur anni, nec pietas moram</l>
+                     <l>Rugis, &amp; inſtanti ſenectae</l>
+                     <l>Afferet, indomitaeque morti. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Ocyor Cervis, &amp; agente Ventos</l>
+                     <l>Ocyor Euro. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <p>That is</p>
+               <lg>
+                  <l>Years fly away, nor can our Piety ſtop</l>
+                  <l>The approach of wrinkled Age, and certain Death,</l>
+                  <l>Swifter than Harts, or Wind.</l>
+               </lg>
+               <q xml:lang="lat">Ocyor &amp; Caeli flammis, &amp; Tigride foeta.
+<bibl>
+                     <hi>Lucan.</hi>
+                  </bibl>
+               </q>
+               <p>That is</p>
+               <p>Swifter than Lightning, and Tigres new with young.</p>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Son giunto a'l loco,</l>
+                     <l>Ove vita ſcende, chi al ſin cade. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Sondo Jo cola giunto ove declina.</l>
+                     <l>L' Etate omai cadente, a la vecchiezza. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>La vita fugge, e non s' arreſta un' hora,</l>
+                     <l>E la Morte vien dietro a gram giornate. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Morte gia per ferir ha' alzato il brachio,</l>
+                     <l>Per l'eſtre megiornate del mia vita.</l>
+                     <l>Rotto da gli anni, e d'ul camino ſtanco. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Volan l' hore, e i giorni, egli anni, e i meſi,</l>
+                     <l>E con breviſſimo intervallo,</l>
+                     <l>Habbiamo a cercar altri paeſi. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>E bien che il giorno che la vita ſerra</l>
+                     <l>Sia forſe aſſai vicino e non previſto. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Taſſo.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <l>La vita fugge, e la morte e ſoura le Spalle. </l>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>La morte s' appreſſa, e el viver fugge,</l>
+                     <l>I di miei piu leggier che niſſun Cervo,</l>
+                     <l>Fuggon come ombre. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>I di miei piu correnti che Saetta.</l>
+                     <l>Fra miſerie, e peccati,</l>
+                     <l>Se ſon andati e Sol morte n' aſpetta.</l>
+                     <l>Non corſe mai ſi lieuamente a'l varco</l>
+                     <l>
+                        <pb n="7" facs="tcp:101635:5"/>Di fugitivo Cervo un Leopardo. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Non poſſo il giorno che la vita ſerra,</l>
+                     <l>Antiveder per la corporea Vela,</l>
+                     <l>Ma variarſi il pelo.</l>
+                     <l>Veggio, e dentro cangiarſi ogni deſire,</l>
+                     <l>Hor che I' me credo al tiempo de'l partire,</l>
+                     <l>Eſſer vicino: o non molto d'a Lungo. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Mai non uſci Veltro di Catena,</l>
+                     <l>Ne mai Saetta, d' Arco fu mandata,</l>
+                     <l>Ne falcon mai d'al Ciel diſceſe a Valle,</l>
+                     <l>Che non reſtaſſe a lei dietro alle Spalle. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Boiardo.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Falcon mai non fu ſi veloce</l>
+                     <l>Quando da'l Ciel in giu con gran ruina</l>
+                     <l>Viena la preda rapido e feroce. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Agoſtini.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Si preſto s'en fugge e ſi leggiero,</l>
+                     <l>Ch'e tardo a ſeguirlo, once o'l penſiero. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Q. Marini.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Pui lento di molto e men Veloce</l>
+                     <l>Giran Turco, o Parto, da grand'oſſa arcata,</l>
+                     <l>Da concavo mettal globo di piombo.</l>
+                     <l>E da racchiuſa Valle il Turbo Sbocca,</l>
+                     <l>O da Squarciata nube il fulgor Scocca.</l>
+                     <l>Rondine ſopra rio Vola men preſta. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Bracciol.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Nonſi rapida mai Cerva da l'onde,</l>
+                     <l>Dore il' Arcier attende a rivolge il piede,</l>
+                     <l>Ne d'avanti a Sparrier per l'arria pura,</l>
+                     <l>Sua ſalute a cercar Tortora Vola. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Idem.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>E va men preſto.</l>
+                     <l>Fulgore che per nube ardendo ſcoppia. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Idem.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="dut" rend="blackletterType">
+                     <l>Gns tijt gael, als cen ſnelle ſtroom.</l>
+                     <l>Ond zijn als skhymmen van een droom. </l>
+                  </lg>
+                  <bibl>Jac. Cats.</bibl>
+               </q>
+               <p>Which may be thus Tranſlated.</p>
+               <lg>
+                  <l>I am thither come,</l>
+                  <l>Where Life makes haſte down, and grows near its end</l>
+                  <l>In my Old Age, and with one Foot ith' Grave,</l>
+                  <l>Life flies apace, and does not reſt one Hour,</l>
+                  <l>And Death makes great Marches to overtake her</l>
+                  <l>
+                     <pb n="8" facs="tcp:101635:6"/>With his hand liſted up ready to ſtrike.</l>
+                  <l>In the laſt Day of Life</l>
+                  <l>Broken with Years, and tired with the long Way.</l>
+                  <l>The Hours, Days, Months and Years, do ſwiftly paſs,</l>
+                  <l>All of us here in a ſmall Space of Time,</l>
+                  <l>Muſt march from hence, and other Quarters ſeek.</l>
+                  <l>I can't foreſee the laſt Day of my Life,</l>
+                  <l>Altho perhaps it may not be far off,</l>
+                  <l>Life flies away and Death treads on his Heels,</l>
+                  <l>Life flies, and Death comes nearer every hour,</l>
+                  <l>My Days are ſwifter than a Hart or Arrow.</l>
+                  <l>No Leopard ever ran ſo faſt</l>
+                  <l>After a flying Bear.</l>
+                  <l>I can't foreſee thro' my corporeal Veil,</l>
+                  <l>The preciſe Day whereon my Life ſhall end;</l>
+                  <l>But I perceive by my chang'd Hair and Thoughts,</l>
+                  <l>There's little diſtance betwixt me and Death.</l>
+                  <l>The fleeteſt Greyhound ſlipt after a Hare,</l>
+                  <l>The Arrow ſhot with great ſtrength from a Bow,</l>
+                  <l>The Falcon ſtooping at his Prey i'th' air,</l>
+                  <l>Are Slow, if with Life's Swiftneſs they compare<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Times courſe ſo nimble is, and light,</l>
+                  <l>No Leopard, nor no Thought can move ſo faſt.</l>
+                  <l>Much more ſlow,</l>
+                  <l>Are Arrows ſent from <hi>Turc,</hi> or <hi>Parthian</hi> Bow.</l>
+                  <l>Faſter than Globe of Lead</l>
+                  <l>From Concave-Metal, or Lightning flies from Heaven;</l>
+                  <l>Swallows upon a River, fly more flow.</l>
+                  <l>Faſter than a Hart,</l>
+                  <l>Who's ſeen a Huntſman, with his Gun in hand,</l>
+                  <l>Faſter than from a Hawk, the Turtle flies</l>
+                  <l>To ſave her Life, or Lightning from the Skies:</l>
+                  <l>Time paſſes faſter than the ſwifteſt Stream,</l>
+                  <l>Our Life is as the Shadow of a Dream.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>
+                        <hi rend="sup">3</hi> O Rus quando ego te videam? quandoque licebit</l>
+                     <l>Nunc veterum libris, nunc ſomno &amp; inertibus horis,</l>
+                     <l>Ducere ſollicitae jucunda oblivia vitae?</l>
+                  </lg>
+               </q>
+               <p>
+                  <pb n="9" facs="tcp:101635:6"/>That is</p>
+               <lg>
+                  <l>Oh Country! when ſhall I retire to thee</l>
+                  <l>With a few Books well choſe, and a true Friend,</l>
+                  <l>Free from the hurries which great Towns attend,</l>
+                  <l>Lead ſuch a Life the Gods ſhall envy me?</l>
+               </lg>
+               <p>
+                  <hi rend="sup">4</hi> By the help whereof, I may mount my eaſie Pad Nag, mention<g ref="char:EOLhyphen"/>ed in the Third Stanza; in the Weſt of <hi>England,</hi> they call it an Upping-ſtock.</p>
+               <q xml:lang="lat">
+                  <hi rend="sup">5</hi> Quae non offendat ſordibus, <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>One whoſe Look may not turn your Stomach.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>
+                        <hi rend="sup">6</hi> Animum rege qui niſi paret</l>
+                     <l>Imperat, hunc Frenis, hunc tu compeſcae Catenis.</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Over your Paſſions, keep a watchful hand,</l>
+                  <l>For if they don't obey, they will command.</l>
+               </lg>
+               <q xml:lang="lat">Lenior, &amp; melior fiam, accedento Senecta. <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Milder and better may I be</l>
+                  <l>The nearer I approach to my laſt Day.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <lg rend="blackletterType">
+                  <l>May my <hi rend="sup">1</hi> little Houſe ſtand on the <hi rend="sup">2</hi> Side of a Hill,</l>
+                  <l>With an eaſy Deſcent, to a Mead, and a <hi rend="sup">3</hi> Mill,</l>
+                  <l>That when I've a mind, I may bear my Boy read,</l>
+                  <l>In the Mill, if it rains, if it's dry, in the Mead.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> 
+                  <hi>Parva ſed apta Domus.</hi> i. e. A little but convenient Houſe.</p>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Cheto annidarmi in retirato Albergo.</l>
+                     <l>Senza mai paventar d' Arme od' Armati,</l>
+                     <l>Forze, inſidie, rapine, Oltraggi, aguati. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Imp.</hi>
+                  </bibl>
+               </q>
+               <p>
+                  <pb n="10" facs="tcp:101635:7"/>That is,</p>
+               <lg>
+                  <l>
+                     <hi>In a retired and quiet Cell,</hi>
+                  </l>
+                  <l>
+                     <hi>From Soldiers free, and dire Effects of Arms,</hi>
+                  </l>
+                  <l>
+                     <hi>Thefts, Robberies, Murders, Inſults, Rapes, Alarms,</hi>
+                  </l>
+                  <l>
+                     <hi>May I in Peace and Safety dwell.</hi>
+                  </l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Cui ſiu di giunco il ſuol, di Canne il Muro,</l>
+                     <l>E di fraſchi, e di paglie il tetto inteſto,</l>
+                     <l>Conſumero con gioia il tempo, e le hore,</l>
+                     <l>E fia che Jo rida d'auer bel cerchio al meno</l>
+                     <l>Si non di Lauro il Crin, d'uliva il Seno. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Imperiale.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>In quiet Cottage with green Ruſhes pav'd,</l>
+                  <l>And wall'd about with Reeds together joyn'd.</l>
+                  <l>Cover'd with Straw, or Boughs oth' Neighb'ring Trees.</l>
+                  <l>I could ſpend all my Life, in Joy, and Eaſe,</l>
+                  <l>And tho' to crown my Head no Bays I find,</l>
+                  <l>The Peaceful Olive ſhall adorn my Mind.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Be ato chi in parte Erme, e lontane,</l>
+                     <l>Chi d'al Vulgo, e dal mondo, hor ti ſequeſtri,</l>
+                     <l>E'l vaſto mar de le miſerie umane</l>
+                     <l>Mirando vai da quelli ſcogli Alpeſtri,</l>
+                     <l>Bella tranquillita, che men villane,</l>
+                     <l>Le belue ſono, e gli animal Silveſtri</l>
+                     <l>Che non e l'uom, men fido e men Sincero,</l>
+                     <l>Che quanto fera è men, tanto è piu fera.</l>
+                     <l>Qui non pal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hi dorati, O marmi impreſſi,</l>
+                     <l>Con pompa d'arte imitatrice appare,</l>
+                     <l>Ma bella di natura, erbe, cipreſſe,</l>
+                     <l>Palme, Valli, boſchetti, apre piu rare.</l>
+                     <l>Fontane a rivo rami e ſpeſſe</l>
+                     <l>Cantan ſemplici Augei note piu chiare.</l>
+                     <l>Che'l finto ſuon di luſingtuera voce,</l>
+                     <l>Ch' a'l Orecchie piacendo, al' Alman noce.</l>
+                  </lg>
+                  <bibl>
+                     <hi>Bracciolini.</hi>
+                  </bibl>
+               </q>
+               <pb n="11" facs="tcp:101635:7"/>
+               <p>In Engliſh thus,</p>
+               <lg>
+                  <l>Happy are they, if any ſuch there be,</l>
+                  <l>Who live retird from worldly Buſineſs free,</l>
+                  <l>In ſome remote and ſolitary place,</l>
+                  <l>Sequeſter'd from the Vulgar and the World,</l>
+                  <l>Who ſee with Scorn from the Alps ſnowy Tops.</l>
+                  <l>The immenſe Sea of human Miſery:</l>
+                  <l>Oh bleſt Tranquility! Oh heavenly Life!</l>
+                  <l>And better Company of Beaſts than men!</l>
+                  <l>For men leſs faithful are, and leſs ſincere,</l>
+                  <l>The beſt Man comes the neareſt to a Beaſt.</l>
+                  <l>Inſtead of Marble Pillars here are ſeen</l>
+                  <l>Tall Pyramids of Cypreſs always green,</l>
+                  <l>Then arch'd and gilded Roofs, the azure Sky</l>
+                  <l>Heavens Canopy, yields more Delight to th' Eye.</l>
+                  <l>Palms, Myrtle Groves, Green Valleys, Mountains, Hills:</l>
+                  <l>And Springs branch'd into various murmuring Rills</l>
+                  <l>Here the untaught Bird ſings his natural Song,</l>
+                  <l>More valuable than <hi>Sirens</hi> vocal Art,</l>
+                  <l>Pleaſant to th' Ear, and hurtful to the Heart.</l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> Neither on the Top, or the Bottom, the beſt ſituation for a Houſe, or a City, affording both Conveniency of Cellars, and a De<g ref="char:EOLhyphen"/>ſcent to carry off the Waters<g ref="char:punc">▪</g>
+               </p>
+               <p>
+                  <hi rend="sup">2</hi> It will be thought the Old Man has made a very ill Choice of a Mill to hear his Boy read in, but they who make this Objection, ei<g ref="char:EOLhyphen"/>ther know not, or at leaſt do not conſider, that Noiſe helps Deafneſs, which is incident to Old Age. That this is a Truth, both Experi<g ref="char:EOLhyphen"/>ence and Reaſon evidence.</p>
+               <p>I have known ſeveral, who could hear little or nothing in their Cham<g ref="char:EOLhyphen"/>bers, but when they were in a Coach rattling upon the Stones, heard very well. I alſo knew a Lady in <hi>Eſſex,</hi> whoſe Name was <hi>Tyrrel,</hi> who while ſhe had occaſion to diſcourſe, uſed to beat a great Drum, without which, ſhe could not hear at all; the Reaſon whereof is this, The moſt frequent Cauſe of Deafneſs, is the Relaxation of the <hi>Tympa<g ref="char:EOLhyphen"/>num,</hi> or Drum of the Ear, which by this violent and continual Agita<g ref="char:EOLhyphen"/>tion of the Air, is extended, and made more Tight, and Springy, and better reflects, Sounds, like a Drum new brac'd.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="12" facs="tcp:101635:8"/>
+               <head>III.</head>
+               <lg rend="blackletterType">
+                  <l>Near a ſhady <hi rend="sup">1</hi> Grove, and a murmuring Brook,</l>
+                  <l>With the Ocean at <hi rend="sup">2</hi> Diſtance, whereupon I may look,</l>
+                  <l>With a ſpacious Plain, without Hedge or Stile,</l>
+                  <l>And an eaſy Pad-Nag, to ride out a <hi rend="sup">3</hi> Mile.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <q xml:lang="lat">
+                  <hi rend="sup">1</hi> Et paulum ſilvae ſuper his foret. <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>And on my Land a little Tuft of Trees.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Fons etiam Rivo dare nomen idoneus, ut nec</l>
+                     <l>Frigidior Thracum, ne<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> purior ambiat Hebrum. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Et tecto vicinus Jugis Aquae Fons. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>And near my Houſe a Spring that always flows.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Labuntur altis interim ripis aquae</l>
+                     <l>Fonteſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> lymphis obſtrepunt manantibus</l>
+                     <l>Somons quod invitet leves. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>—Per pronum trepidans cum murmure rivum. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id,</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Levis crepante lympha deſilit Pede. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>
+                        <g ref="char:V">Ʋ</g>nde loquaces.</l>
+                     <l>Lymphae deſiliunt. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Idem.</hi>
+                  </bibl>
+               </q>
+               <p>The Sence whereof is this,</p>
+               <lg>
+                  <l>And a Spring fit to give a River Name</l>
+                  <l>Colder than it, none are in <hi>Thracia</hi> found</l>
+                  <l>Clearer than it, none <hi>Hebrus</hi> Hill ſurround.</l>
+                  <l>The Noiſe of Water tumbling down the Hills</l>
+                  <l>And bubbling of the Springs provoking Sleep.</l>
+                  <l>Runs murmuring as if it were affraid,</l>
+                  <l>Runs nimbly down the Hill and Muſic makes</l>
+                  <l>With' creaking of its liquid Shoes.</l>
+                  <l>Waters in their Deſcent talking aloud.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <pb n="13" facs="tcp:101635:8"/>
+                     <l>
+                        <g ref="char:V">Ʋ</g>n Fonte ch' a bagnar invita</l>
+                     <l>La labbra, alto cader da un vivo ſaſſo</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>A Clear Spring iſſuing from a Rock</l>
+                  <l>Inviting thirſty Travellers to drink.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Chiara Fontana</l>
+                     <l>Sorgea d'un ſaſſo, e acque freſche e dolce</l>
+                     <l>Spargea ſouamente mormorando. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Pet.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>A copious Spring pouring down from a Rock,</l>
+                  <l>Its Waters cold as Ice, and clear as Criſtal.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Il roco mormorar di lucid'onde</l>
+                     <l>S' ode de una fiorita e freſca riva.</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Upon the cool and flowry Bank of th' River</l>
+                  <l>We heard the hoarſe Sound of the murmuring Waters.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>La fonte diſcorrea pe'l mezzo d'un Prato</l>
+                     <l>D'arbore antique e, e belle ombre adorno</l>
+                     <l>Ch'i viandanti co'l mormorin grato</l>
+                     <l>Aber invita, e far ſeco ſoggiorno.</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>A ſilver Stream</l>
+                  <l>Runs through the Field with ſhady Trees adornd,</l>
+                  <l>And by its gentle murmurs ſeems to invite</l>
+                  <l>The Paſſengers to drink, and ſtay all night.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Quel roco ſuon, chi fuor diſcioglie</l>
+                     <l>Il mormorante ſtrepitoſo Rivo.</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <p>The hoarſe Sound of the raped River.</p>
+               <q>
+                  <lg xml:lang="ita">
+                     <pb n="14" facs="tcp:101635:9"/>
+                     <l>Il mormorio del Acque,</l>
+                     <l>Chi da'l collo vicin, di ſaſſo in ſaſſo,</l>
+                     <l>A ſcherzar cala, placidetta, e freſca. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Imper.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>The murmuring Noiſe of the cold pleaſant Stream,</l>
+                  <l>Sporting and leaping from one Stone to another,</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Chiari Rivi mormorando intorno</l>
+                     <l>Sempre l'erbe vi fan tenere, e nove,</l>
+                     <l>E rendea ad Auſcultator dolce concento,</l>
+                     <l>Rottotra picciol ſaſſi il correr lento. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Arioſto.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Clear murmuring Rivers paſs,</l>
+                  <l>Filling the Vale with Flowers, Herbs and Graſs,</l>
+                  <l>And to the Travellers, ſweet Muſic make,</l>
+                  <l>When they ride Poſt, over the rattling Pebbles.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Rive correnti di fontane vive,</l>
+                     <l>A'l caldo tiempo, giu per l'erbe freſce. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Rivers deſcending from perpetual Springs</l>
+                  <l>Ith' Heat o'th Year refreſh the ſcorched Graſs.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Il murmurar di liquidi Criſtalli,</l>
+                     <l>Giu per lucidi, freſci, rivi, e ſnelli. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>The murmuring Sound the liquid Criſtal makes</l>
+                  <l>When it runs ſwiftly in cold lucid Streams.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Da'l cavo ſen d'inacceſſibil rupi.</l>
+                     <l>Traboccar un Rio, ne la profunda Valle</l>
+                     <l>E creſciuto in torrente, infra quei ſaſſi</l>
+                     <l>Muover con roco ſuon tumidi i paſſi. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Gratiani.</hi>
+                  </bibl>
+               </q>
+               <p>
+                  <pb n="15" facs="tcp:101635:9"/>That is,</p>
+               <lg>
+                  <l>To ſee a ſmall Stream, from a hollow Rock</l>
+                  <l>Grown to a furious Torrent in the Vale,</l>
+                  <l>Move proudly, murmuring at every ſtep.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Scorrea del verde prato, al lato manco,</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>n lompido Ruſcell, che dolce invita</l>
+                     <l>Con l'acque pure, in ſu l'eſtiva rabbia</l>
+                     <l>Facea de i Viandanti al arſe Labbia.</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Through the Green Field a River runs,</l>
+                  <l>And courteouſly all Travellers invites</l>
+                  <l>To drink its Waters, wholſome, cool, and clear,</l>
+                  <l>And quench their Thirſt in the great heat o'th' Year.</l>
+               </lg>
+               <q xml:lang="lat">
+                  <hi rend="sup">2</hi> 
+                  <hi>Neptunum procul à terris ſpectare furentem.</hi> Hor.</q>
+               <p>That is</p>
+               <p>Safe upon Land to ſee the raging Sea.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Jactantibus aequora ventis,</l>
+                     <l>E terra, magnum alterius ſpectare Laborem</l>
+                     <l>Tua ſine parte pericli.</l>
+                     <l>Non quia vexari quemquam eſt jucunda voluptas,</l>
+                     <l>Sed quibus ipſe malis careas quid cernere ſuave eſt. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Lucr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>To him that's ſafe, 'tis pleaſant to behold</l>
+                  <l>Seamen in Storms, labouring to ſave their Lives,</l>
+                  <l>Not that anothers Miſery affords Pleaſure,</l>
+                  <l>The Pleaſure comes from this, that we are ſafe.</l>
+               </lg>
+            </div>
+            <div n="4" type="part">
+               <pb n="16" facs="tcp:101635:10"/>
+               <head>IV.</head>
+               <lg rend="blackletterType">
+                  <l>With <hi>Horace</hi> and <hi>
+                        <hi rend="sup">1</hi> Petrarch,</hi> and Two or Three more</l>
+                  <l>Of the beſt Wits that reign<g ref="char:punc">▪</g>d in the Ages before,</l>
+                  <l>With <hi rend="sup">2</hi> roaſt Mutton, rather than Uen'ſon or Teal,</l>
+                  <l>And clean, tho' courſe Linnen at every Meal.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> A famous <hi>Italian</hi> Poet, who flouriſhed in the Thirteenth Centu<g ref="char:EOLhyphen"/>ry, he was one of the firſt reſtorers of Learning. The Author of this <hi>Wiſh</hi> has begun to write his Life, and deſigns (God willing) in a ſhort time to publiſh it.</p>
+               <p>
+                  <hi rend="sup">2</hi> Simple and parable Meat.</p>
+               <q xml:lang="lat">Parabilem amo venerem. <hi>Hor.</hi>
+               </q>
+               <p>That is,</p>
+               <p>My delight is in things eaſily procur'd.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Accipe nunc victus tenuis quae quanta<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſecum</l>
+                     <l>Afferat, imprimis valeas bene, nam variae res</l>
+                     <l>
+                        <g ref="char:V">Ʋ</g>t noceant homini credas, memor illius eſcae</l>
+                     <l>Quae ſimplex olim tibi ſederit, ut ſimul aſſis</l>
+                     <l>Miſcueris Elixa, ſimul conchylia Turdis,</l>
+                     <l>Dulcia ſe in bilem vertent, ſtomacho<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> tumultum</l>
+                     <l>Lenta feret pituita, vides ut pallidus omnis</l>
+                     <l>Coena deſurgat dubia, quin corpus onuſtum</l>
+                     <l>Hoſternii vitiis, animum quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> praegravat una,</l>
+                     <l>At<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> affigit humi Divinae particulam Aurae.</l>
+                  </lg>
+               </q>
+               <p>Which may be thus Tranſlated.</p>
+               <lg>
+                  <l>Learn the Effects of ſpare and ſimple Diet,</l>
+                  <l>Firſt it preſerves thy Health, which various Meats</l>
+                  <l>Deſtroy, you'll grant<g ref="char:punc">▪</g> this when you call to mind</l>
+                  <l>How eaſily you digeſted <hi>Oxford</hi> Commons.</l>
+                  <l>If you mix boyl'd, roaſt, fry'd, and fleſh with fiſh,</l>
+                  <l>Sweet things turn Choler, and Flegm loads the Stomach.</l>
+               </lg>
+               <lg>
+                  <pb n="17" facs="tcp:101635:10"/>
+                  <l>Behold how pale, how ſickly they appear</l>
+                  <l>Who ſpend their Nights in Feaſts, their Days in Sleep,</l>
+                  <l>But that's not all, the worſt is yet behind,</l>
+                  <l>Their diſeas'd Bodies influence the Mind.</l>
+                  <l>And nail to th' ground that Particle of <hi>Jove.</hi>
+                  </l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Pago il cor di poco, il ſuo ben crede</l>
+                     <l>Paſcer ſu parca ma pulita menſa</l>
+                     <l>Piu di piacer che vivande il corpo</l>
+                     <l>In vece de piu lauti e piu chiari Cibi,</l>
+                     <l>Onde s' aggrava il' nauſeato Guſto,</l>
+                     <l>E onde ohime la Vita altrui ſi accorcia. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Imper.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>He with content at his own Table ſits</l>
+                  <l>Serv'd with clean Linnen and with common Meat,</l>
+                  <l>Eating no more than what ſuffices Nature,</l>
+                  <l>And thence with Appetite riſes to his Studies</l>
+                  <l>Taking more care to feed his Soul, than Body,</l>
+                  <l>Variety he ſhuns and new-found Diſhes,</l>
+                  <l>Which bring their Thouſands to untimely Death.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Ne turpe toral, ne ſordida mappa</l>
+                     <l>Corruget nares, ne non &amp; Cantharus &amp; Lanx</l>
+                     <l>Oſtendat tibi te. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <lg>
+                  <l>Leſt the foul Table-cloth and dirty Napkins</l>
+                  <l>Should make you loath your meat.</l>
+                  <l>Leſt you ſhould ſee your Face ith' greaſy Plates.</l>
+               </lg>
+               <q xml:lang="lat">Et mundus victus non deficiente crumena. <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>Clean Diet and ſome Money in my Purſe.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Mundae<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> parvo ſub lare pauperum</l>
+                     <l>Coenae. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>
+                  <hi>And cleanly Suppers in a homely Cottage.</hi>
+               </p>
+               <q xml:lang="lat">Pauperies immunda domus procul abſit, ego utrum.
+<bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <q xml:lang="lat">
+                  <pb n="18" facs="tcp:101635:11"/>Nave ſerar magna an parva ferar unus &amp; idem.
+<bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>From <hi>unclean</hi> Poverties attacks ſecurd,</l>
+                  <l>Twill be all one to me to make the Port</l>
+                  <l>In a ſmall Wherry or a firſt rate Ship.</l>
+               </lg>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <lg rend="blackletterType">
+                  <l>With a <hi rend="sup">1</hi> Pudding on Sundays, with ſtout humming Liquor,</l>
+                  <l>And Remnants of Latin to welcome the Uicar,</l>
+                  <l>With <hi>
+                        <hi rend="sup">2</hi> Monte-Fiaſcone</hi> or <hi>
+                        <hi rend="sup">3</hi> Burgundy</hi> Wine</l>
+                  <l>To drink the <hi rend="sup">4</hi> Kings health as oft as I dine.</l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> Tho the Poet never eats any, he provides this Diſh for his Gueſt, but principally in obſervance of the old <hi>Engliſh</hi> Cuſtom, to let no <hi>Sunday</hi> paſs without a Pudding. From this, and many paſſages be<g ref="char:EOLhyphen"/>fore, it is evident that he is a very ſuperſtitious Fellow.</p>
+               <p>
+                  <hi rend="sup">2</hi> A Town in <hi>Tuſcany</hi> clebrated for good Wine, and the Epitaf of a <hi>Dutch</hi> Man buried there; all the Books which treat of Travelling through <hi>Italy</hi> relate the ſtory at large. But ſince it may be new to ſome who ſhall read this, I will ſet it down in few words; A <hi>Dutch</hi> Traveller with his Servant lighted at the Inn which lies out of the Town, and thence ſent his Servant into it to find the beſt Wine, or<g ref="char:EOLhyphen"/>dering him to write <hi>Eſt</hi> upon the door of the Houſe wherein he found good Wine; where he found better, <hi>Eſt, Eſt;</hi> where the beſt, <hi>Eſt, Eſt, Eſt:</hi> The Servant obeyed his Commands punctually. The Ma<g ref="char:EOLhyphen"/>ſter follows, and finds the Tavern bearing this laſt Inſcription, and drank ſo much, that it caſt him into a Fever, whereof he died. His Servant buried him in the Church, ingraving upon his Tomb-ſtone this Epitaf, which is ſtill to be ſeen there.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Eſt, Eſt, Eſt.</l>
+                     <l>Propter nimium Eſt,</l>
+                     <l>Jo de Fuc. D. meus mortuus eſt.</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Here lies my Maſter, due Eaſt and Weſt,</l>
+                  <l>By taking too much, of <hi>Eſt, Eſt, Eſt.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <pb n="19" facs="tcp:101635:11"/>
+                  <hi>
+                     <hi rend="sup">3</hi> Beauln,</hi> A Town in the Dukedom of <hi>Burgundy,</hi> famous for a magnificent Hoſpital, and the excellency of its Wines, which are in<g ref="char:EOLhyphen"/>comparably the beſt in <hi>France,</hi> if not in the World.</p>
+               <p>
+                  <hi>Experto crede Roberto.</hi> i. e. I do not ſpeak this by hear-ſay.</p>
+               <p>
+                  <hi>
+                     <hi rend="sup">4</hi> So</hi> Horace <hi>writing to</hi> Auguſtus.</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Hinc ad vina redit laetus &amp; alteris</l>
+                     <l>Te menſis adhibet Deum.</l>
+                     <l>Te multa prece, te proſequitur mero.</l>
+                     <l>Diffuſo Pateris, &amp; laribus tuum</l>
+                     <l>Miſcet nomen, ut Graecia Caſtoris</l>
+                     <l>Et magni memor Herculis.</l>
+                     <l>Longas ô utinam Rex bone ferias</l>
+                     <l>Praeſtes Heſperiae, dicimus integro</l>
+                     <l>Sicci mane die, dicimus <g ref="char:V">Ʋ</g>vidi</l>
+                     <l>Cum nox Oceano ſubeſt.</l>
+                  </lg>
+               </q>
+               <p>This may be thus Parafraſed.</p>
+               <lg>
+                  <l>When ſecond Courſe comes in,</l>
+                  <l>Then we begin</l>
+                  <l>To bleſs the Gods and thee, mingling your Names,</l>
+                  <l>With many Prayers, and Glaſſes fill'd with Wine</l>
+                  <l>We drink your Health, crying, King live for ever.</l>
+                  <l>Not <hi>Hercules,</hi> nor <hi>Caſtor</hi> ever found</l>
+                  <l>Such Love in <hi>Greece,</hi> as thou in <hi>Engliſh</hi> ground,</l>
+                  <l>For the Worlds good, may Heavens preſerve thee long.</l>
+                  <l>This is our ſober, and our drunken Song.</l>
+                  <l>Our firſt i'th' Morning, and laſt Prayer at Night.</l>
+               </lg>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <lg rend="blackletterType">
+                  <l>May my Wine be Uermillion, may my Malt-drink be pale,</l>
+                  <l>In neither extream, or too mild or too ſtale.</l>
+                  <l>In lieu of Deſerts, Unwholſome and Dear,</l>
+                  <l>Let <hi>
+                        <hi rend="sup">1</hi> Lodi</hi> or <hi>Parmiſan</hi> bring up the Rear.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi>
+                     <hi rend="sup">1</hi> Laus Pompei,</hi> a wonderful fertil Town in the Dutchy of <hi>Millan,</hi> whoſe Cheeſe is of greater Fame, than <hi>Parmiſan.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <pb n="20" facs="tcp:101635:12"/>
+               <head>VII.</head>
+               <lg rend="blackletterType">
+                  <l>Nor <hi rend="sup">1</hi> Tory, or Wig, Obſervator or Trimmer</l>
+                  <l>May I be, nor againſt the Laws torrent a Swimmer</l>
+                  <l>May I mind what I ſpeak, what I write, and hear read,</l>
+                  <l>But with matters of State ne'er trouble my head.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> Thoſe odious Names of Diſtinction, kindled great Animoſity, and Strangeneſs, and even Hatred, betwixt Friends and Relations, which are not (I fear) yet throughly extinguiſhed.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <lg rend="blackletterType">
+                  <l>Let the Gods who diſpoſe of every Kings Crown,</l>
+                  <l>Whomſoever they pleaſe, ſet up and pull down.</l>
+                  <l>Ile pay the whole Shilling impos'd on my head,</l>
+                  <l>Tho I go without <hi rend="sup">1</hi> Claret that Night to my Bed.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> If that ſhould happen, it would be a ſhrewd Affliction to the Poet.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <lg rend="blackletterType">
+                  <l>I'll bleed without grumbling, tho' <hi rend="sup">1</hi> that Tax ſhould appear</l>
+                  <l>As oft as New Moons, or Weeks in a Year,</l>
+                  <l>For why ſhould I let a ſeditious Word fall?</l>
+                  <l>
+                     <hi rend="sup">2</hi> Since my Lands in <hi>
+                        <hi rend="sup">3</hi> Utopia</hi> pay nothing at all.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">2</hi> A Poll Bill. <hi rend="sup">2</hi> A good Encouragement to pay for his Head, &amp;<hi>c.</hi> 
+                  <hi rend="sup">3</hi> A Place in <hi>Jupiter,</hi> or the <hi>Moon,</hi> or ſome other of the <hi>Planets,</hi> for it is not to be found in the Map of the World.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <lg rend="blackletterType">
+                  <l>Tho' I care not for Riches, may I not be ſo poor,</l>
+                  <l>That the Rich without ſhame cannot enter my Door,</l>
+                  <l>
+                     <hi rend="sup">1</hi> May they court my converſe, may they take much delight,</l>
+                  <l>My <hi rend="sup">2</hi> old Stories to hear in a Winters long Night.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <q xml:lang="lat">
+                  <hi rend="sup">1</hi> Pauperemque dives me petet.</q>
+               <q xml:lang="lat">
+                  <hi rend="sup">2</hi> Aniles ex re fabellas, <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>
+                  <pb n="21" facs="tcp:101635:12"/>That is,</p>
+               <lg>
+                  <l>Let the Rich look after me.</l>
+                  <l>Old Stories aptly applied.</l>
+               </lg>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <lg rend="blackletterType">
+                  <l>My ſmall ſtock of Wit may I not miſapply,</l>
+                  <l>To flatter great men be they never ſo high.</l>
+                  <l>Nor miſpend the <hi rend="sup">3</hi> few Moments I ſteal from the Grave,</l>
+                  <l>In fawning, or cringing, like a Dog or a Slave.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <q xml:lang="ita">
+                  <hi rend="sup">3</hi> Quel poco viver che m' avanza. <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>The ſmall remainder of my Life.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <lg rend="blackletterType">
+                  <l>May none whom I love, to ſo great <hi rend="sup">1</hi> Riches riſe</l>
+                  <l>As to ſlight their Acquaintance, and their old Friends deſpiſe.</l>
+                  <l>So Low, or ſo High, may none of them be,</l>
+                  <l>As to move either Pity, or Envy in me.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <q xml:lang="spa">
+                  <hi rend="sup">1</hi> No de Dios tanto bien a nueſtros Amigos que nos deſconoſcam.</q>
+               <p>
+                  <hi>A</hi> Spaniſh <hi>Proverb, In</hi> Engliſh <hi>thus,</hi>
+               </p>
+               <p>Let not God make our Friends ſo rich as to forget us.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <lg rend="blackletterType">
+                  <l>A Friendſhip I wiſh for, but alas tis in vain,</l>
+                  <l>
+                     <hi rend="roman">Joves</hi> Store-Houſe is empty and can't it ſupply,</l>
+                  <l>So firm, that no change of Times, Envy, or Gain,</l>
+                  <l>Or Flattr'y, or Woman, ſhould have Pow'r to unty.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <lg rend="blackletterType">
+                  <l>But if Friends prove unfaithful, and Fortune a <hi rend="sup">1</hi> Whore,</l>
+                  <l>Still may I be Uirtuous, though I am Poor,</l>
+                  <l>
+                     <pb n="22" facs="tcp:101635:13"/>My Life then, as uſeleſs, may I freely reſign,</l>
+                  <l>When no longer I reliſh, true Wit, and good Wine.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>
+                        <hi rend="sup">1</hi> Fortuna ſaevo laeta negocio,</l>
+                     <l>Ludum inſolentem ludere pertinax.</l>
+                     <l>Tranſmutat incertos honores</l>
+                     <l>Nunc mihi, nunc alii benigna. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Laudo manentem, ſi celeres quatit</l>
+                     <l>Pennas, reſigno quae dedit, &amp; mea</l>
+                     <l>Virtute me involvo. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>Hinc apicem rapax</l>
+                     <l>Fortuna cum ſtridore acuto</l>
+                     <l>Suſtulit, hic poſuiſſe gaudet. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+               </q>
+               <p>Something to this purpoſe.</p>
+               <lg>
+                  <l>Fortune delights to play her cruel Game,</l>
+                  <l>And, as the wind, is never long the ſame,</l>
+                  <l>But to change Favorites always inclin'd,</l>
+                  <l>Sometimes to me, ſometimes to thee ſhe's kind.</l>
+                  <l>
+                     <hi>When thou thinkſt thou haſt her as ſure as a Gun</hi>
+                  </l>
+                  <l>
+                     <hi>She'll up with her Scut, and away ſhe'll run.</hi>
+                  </l>
+                  <l>I am well pleas'd while ſhe vouchſafes to ſtay,</l>
+                  <l>But if ſhe claps her wings, and ſcuds away,</l>
+                  <l>What I've receiv'd, I patiently lay down,</l>
+                  <l>And wrap my ſelf in my own Vertue's Gown.</l>
+                  <l>Fortune fly's wantonly about the World,</l>
+                  <l>And changes Crowns and Kingdoms every day.</l>
+               </lg>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <lg rend="blackletterType">
+                  <l>To out live my <hi rend="sup">1</hi> Senſes may it not be my Fate,</l>
+                  <l>To be blind, to be deaf, to know nothing at all,</l>
+                  <l>But rather let Death come before 'tis ſo late,</l>
+                  <l>And while there's ſome Sap in it, may my Tree fall.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">3</hi> May I not loſe my Sight, my Hearing, and my Memory, and be a Burden to my Friends, and my ſelf, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Tellu<g ref="char:EOLhyphen"/>ris inutile Pondus,</hi> a dead unuſeful Burden to the Ground.</p>
+               <q>
+                  <lg xml:lang="ita">
+                     <pb n="23" facs="tcp:101635:13"/>
+                     <l>Di guai pieno, e d'angoſcie e fatto in tutto.</l>
+                     <l>Spiacevol, e moleſto a tutti, anzi a me medeſſimo. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>In Pain and Anguiſh altogether troubleſome</l>
+                  <l>Not only to my Friends, but to my ſelf.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>
+                        <g ref="char:V">Ʋ</g>ltima ſemper</l>
+                     <l>Expectanda dies homini eſt, dicique beatus</l>
+                     <l>Ante obitum nemo ſuprema<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> funera debet. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Ovid.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>No Man can be call'd Happy till he's dead,</l>
+                  <l>Tis the laſt Hour denominates the Life.</l>
+               </lg>
+               <p>If you tell an <hi>Italian,</hi> ſuch a one is a rich, or happy man; he'll reply, <hi>Dammi lo morto,</hi> as much as to ſay, Let me ſee dead, and then twill be evident whether he is or not; before that, no true Judgment is to be made. Some corporeal and intellectual vigor. <hi rend="sup">4</hi> May I dy.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <lg rend="blackletterType">
+                  <l>I hope I ſhall have no occaſion to ſend</l>
+                  <l>For Prieſts, or Fyſicians, till I am ſo near mine End</l>
+                  <l>
+                     <hi rend="sup">1</hi> That I have eat all my Bread, and drunk my laſt Glaſs,</l>
+                  <l>
+                     <hi rend="sup">2</hi> Let them come then, and ſet their Seals to my Paſs.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> The Poet alludes to a Tradition amongſt the <hi>Turks,</hi> who be<g ref="char:EOLhyphen"/>lieve, that when any one is born into the World, there is ſuch a Quantity of Meat and Drink ſet before him, which when he has con<g ref="char:EOLhyphen"/>ſumed, he muſt die. The Moral whereof is, He that deſires to live long, muſt be ſparing in his Meat and Drink.</p>
+               <p>
+                  <hi rend="sup">2</hi> That I may die <hi>Canonicamente e con tutti gli ordini.</hi> i. e. Die re<g ref="char:EOLhyphen"/>gularly, obſerving all the Ceremonies, Formalities, and Punctualities, <hi>A la Couſtume,</hi> which is according to our barbarous Tranſlation, <hi rend="blackletterType">To a Cows Thumb.</hi>
+               </p>
+            </div>
+            <div n="17" type="part">
+               <head>XVII.</head>
+               <lg rend="blackletterType">
+                  <l>With a Courage undaunted, may I face my laſt Day,</l>
+                  <l>And when I am dead may the better ſort ſay,</l>
+               </lg>
+               <lg>
+                  <l>
+                     <pb n="24" facs="tcp:101635:14"/>
+                     <hi rend="sup">1</hi> In the Morning, when ſober, in the Evening, when mellow'</l>
+                  <l>He's gone, and left not behind him his Fellow.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>
+                        <hi rend="sup">1</hi> Dicimus integro</l>
+                     <l>Sicci mane die, dicimus <g ref="char:V">Ʋ</g>nidi,</l>
+                     <l>Cum nox Oceano ſubeſt.</l>
+                  </lg>
+               </q>
+               <p>Theſe Verſes are Tranſlated before.</p>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>S' io viſſi in guerra, e in tempeſta,</l>
+                     <l>Morai in pace, e in porto, e ſe la Stanza</l>
+                     <l>Fu vana, almen ſia la partita honeſta. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>Tho I have liv'd in War, and in a Storm,</l>
+                  <l>Oh may I dy in Peace, and in a Port</l>
+                  <l>Tho the firſt Parts I acted on Liſes Stage</l>
+                  <l>Were vain, may my laſt <hi>Exit</hi> make amends.</l>
+               </lg>
+            </div>
+            <div n="18" type="part">
+               <head>XVIII.</head>
+               <lg rend="blackletterType">
+                  <l>Without any <hi rend="sup">1</hi> Noiſe when I've paſs do't the Stage,</l>
+                  <l>And decently acted what part <hi rend="sup">2</hi> Fortune gave,</l>
+                  <l>And put off my <hi rend="sup">3</hi> Ueſts in a <hi rend="sup">4</hi> chearful Old Age,</l>
+                  <l>May a few honeſt Fellows ſee me laid in my Grave.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <q xml:lang="lat">
+                  <l>
+                     <hi rend="sup">1</hi> Secretum iter &amp; fallentis ſemita vitae. </l>
+                  <bibl>
+                     <hi>Hor.</hi>
+                  </bibl>
+                  <l>Nec vixit male, qui natus morienſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fefellit. </l>
+                  <bibl>
+                     <hi>Idem.</hi>
+                  </bibl>
+               </q>
+               <p>That is</p>
+               <p>He Happy is who liv'd and died unknown.</p>
+               <q>
+                  <hi rend="sup">2</hi> 
+                  <hi>Quem dederat curſum Fortuna peregi.</hi> 
+                  <bibl>Virgil.</bibl>
+               </q>
+               <p>That is,</p>
+               <p>I've run the Race by Fortune me aſſign'd.</p>
+               <p>
+                  <hi rend="sup">3</hi> My Garments of Fleſh, wherein I acted my Part on the Stage of the World, when the Farce is done, and the Curtain drawn.</p>
+               <pb n="25" facs="tcp:101635:14"/>
+               <q xml:lang="ita">Al por giu di queſta ſpoglia. <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <q xml:lang="ita">Laſciando in terra le ſquarciete vele. <bibl>
+                     <hi>Idem.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>When I put off my tatter'd Rags,</l>
+                  <l>And leave them here behind me on the Earth.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>Quando de terreno</l>
+                     <l>Carcere uſcendo, laſcirai tu e ſparta</l>
+                     <l>Queſta mia grave, e frale, e mortal Gonna. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Petr.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <lg>
+                  <l>When I'm releas'd out of this Mortal Priſon,</l>
+                  <l>Leaving my heavy, frail, and mortal Gown.</l>
+               </lg>
+               <q>
+                  <lg xml:lang="ita">
+                     <l>E quel velo</l>
+                     <l>Che per alto deſtin mi venne in ſorte. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Id.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>That Veil that Heavens appointed me to wear:</p>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>precor integra</l>
+                     <l>Cum mente nec turpem ſenectam</l>
+                     <l>Degere, nec cithara carentem.</l>
+                  </lg>
+               </q>
+               <p>That is,</p>
+               <p>In a cheerful Old Age, and my Senſes entire,</p>
+            </div>
+            <div n="19" type="part">
+               <head>VIII.</head>
+               <lg rend="blackletterType">
+                  <l>I care not whether under a Turf, or a Stone,</l>
+                  <l>With any Inſcription upon it, or none,</l>
+                  <l>If a Thouſand Years hence, <hi rend="roman">
+                        <hi rend="sup">1</hi> Here lies</hi> 
+                     <hi rend="italic">W. P.</hi>
+                  </l>
+                  <l>Shall be read on my Tomb, what is it to me?</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <p>
+                  <hi rend="sup">1</hi> The Poet Preſumes he ſhall have a very ſhort and modeſt Epitaf if any, only the Two Firſt Letters of his Name.</p>
+               <q>
+                  <lg xml:lang="ita">
+                     <pb n="26" facs="tcp:101635:15"/>
+                     <l>S'el Latino o'l Greco</l>
+                     <l>Parlan di me dopo la morte, e un' Vento. </l>
+                  </lg>
+                  <bibl>
+                     <hi>Pet.</hi>
+                  </bibl>
+               </q>
+               <p>That is,</p>
+               <p>If the <hi>Romans</hi> or <hi>Grecians</hi> ſpeak of me after my death, tis but Wind.</p>
+            </div>
+            <div n="20" type="part">
+               <head>XX.</head>
+               <lg rend="blackletterType">
+                  <l>Yet one Wiſh I add, for the ſake of thoſe <hi rend="sup">1</hi> Few</l>
+                  <l>Who in reading theſe Lines any Pleaſure ſhall take,</l>
+                  <l>May I leave a good <hi rend="sup">2</hi> Fame, and a ſweet ſmelling Name.</l>
+                  <l>AMEN. Here an End of my WISHES I make.</l>
+               </lg>
+               <lg type="chorus">
+                  <l>May I govern my Paſſion with an abſolute Sway,</l>
+                  <l>And grow Wiſer, and Better, as my Strength wears away,</l>
+                  <l>Without Gout, or Stone, by a gentle Decay.</l>
+               </lg>
+               <q xml:lang="lat">
+                  <hi rend="sup">1</hi> 
+                  <hi>Non ut me miretur turba Laboro.</hi>
+               </q>
+               <p>
+                  <hi>Contentus paucis Lectoribus.</hi> i. e. I deſign not to be read by many, nor covet the applauſe of the Populace. <hi rend="sup">2</hi> 
+                  <hi>Quae poſt Fata venit, Gloria ſera venit.</hi> Mart. i. e. Fame comes too late when it comes after Death. Though Fame will not concern me after I am Dead, yet I wiſh for it, becauſe it will be a Pleaſure to my ſurviving Friends. <hi>Si quos ſupereſſe volunt Dii.</hi> Hor. i. e. If I do not (which has happened to many Old Men) out-live all my Friends.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101635:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
